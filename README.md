@@ -1,2 +1,2 @@
 # Healthcare-Consultation-Project
-This project develops a healthcare consultation chatbot using IBM Watson Assistant and Flask to predict diseases based on user-reported symptoms via the K-Nearest Neighbors (KNN) algorithm. It features real-time predictions, a user-friendly interface, and Cloudant database integration, enhancing healthcare accessibility and early disease detection.
+This project involves developing a healthcare consultation Flask web application to provide medical advice and predict diseases based on user-reported symptoms. The project leverages the K-Nearest Neighbors (KNN) algorithm for disease prediction, achieving high accuracy and enhancing healthcare accessibility by offering real-time consultations.
